@@ -21,7 +21,7 @@ int main()
 
 ## Un tableau
 
-   Outil         | Avantages               | Inconvénients          |
+ | Outil         | Avantages               | Inconvénients          |
  |---------------|-------------------------|------------------------|
  | Jekyll        | Intégration GitHub Pages | Courbe d’apprentissage |
  | Hugo          | Rapide                  | Moins de thèmes        |
