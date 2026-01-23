@@ -20,8 +20,9 @@ int main()
 
 
 ## Un tableau
-|Nom|Oui/Non|
-|--|-|
-|aa|aa|
-|bb|bb|
-|cc|cc|
+
+   Outil         | Avantages               | Inconvénients          |
+ |---------------|-------------------------|------------------------|
+ | Jekyll        | Intégration GitHub Pages | Courbe d’apprentissage |
+ | Hugo          | Rapide                  | Moins de thèmes        |
+ | WordPress     | Flexible                | Nécessite un hébergement |
