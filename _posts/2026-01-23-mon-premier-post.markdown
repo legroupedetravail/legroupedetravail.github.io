@@ -2,10 +2,11 @@
 layout: post
 title:  "Mon premier post"
 date:   2026-01-23 21:37:56 +0100
-categories: jekyll update
+categories: [Démonstration, Sous-catégorie]
+author: ala
 ---
 # Un premier article
-Voici un exemple d'article. 
+Voici un exemple d'article.
 
 ## Un peu de code source
 
@@ -21,8 +22,8 @@ int main()
 
 ## Un tableau
 
- | Outil         | Avantages               | Inconvénients          |
- |---------------|-------------------------|------------------------|
- | Jekyll        | Intégration GitHub Pages | Courbe d’apprentissage |
- | Hugo          | Rapide                  | Moins de thèmes        |
- | WordPress     | Flexible                | Nécessite un hébergement |
+ | Outil     | Avantages                | Inconvénients            |
+ | --------- | ------------------------ | ------------------------ |
+ | Jekyll    | Intégration GitHub Pages | Courbe d’apprentissage   |
+ | Hugo      | Rapide                   | Moins de thèmes          |
+ | WordPress | Flexible                 | Nécessite un hébergement |
