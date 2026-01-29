@@ -229,12 +229,12 @@ jekyll_compose:
     drafts:
       description:
       image:
-      category:
+      categories:
       tags:
       author:
     posts:
       description:
       image:
-      category:
+      categories:
       tags:
       author:
